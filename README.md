@@ -37,6 +37,12 @@
       -  Design Compiler (Synopsys): High-quality logic synthesis with timing and power optimization.
 
       -  ICC2 (Synopsys): Advanced place-and-route for ASIC implementation.
+
+      Skills : 
+      -  RTL Programming = [ Verilog, System Verikog, UVM, Linux ] 
+      -  Programming      = [ C, C++ (basic) ]
+      -  Basics in Datastructures 
+      -  Basics in Cloud computing
 </body>
 ---
 
