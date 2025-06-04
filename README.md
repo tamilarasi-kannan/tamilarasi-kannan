@@ -6,20 +6,37 @@
 # :sparkles: Myself
 <body>
     
-    title : "VLSI Engineer"
+    Title : "VLSI Engineer"
 
-     education: 
+     Education: 
       - "Bachelor's in Electronics and Communication Engineering"
+      
       - "Sri Eshwar College Of Engineering"
+      
       -  2022 - 2026
   
-    technical_experience:
-      - "Intern - MERN Stack, RampeX Technologies"
+    Completed_courses :
+       - RTL Design and verification from VLSIGURU 
+       
+       - Physical Design from VLSIEXPERT
 
-    fields_of_interests:
+    Fields_of_interests:
       -  VLSI
+      
       -  RTL Design and Verification
+      
       -  Physical Design 
+
+    EDA Tool Experience : 
+      -  Genus (Cadence): RTL synthesis from HDL to optimized gate-level netlist.
+
+      -  Innovus (Cadence): Full-chip physical design – floorplan to GDSII.
+
+      -  nclaunch / Xcelium (Cadence): RTL simulation and waveform debugging.
+
+      -  Design Compiler (Synopsys): High-quality logic synthesis with timing and power optimization.
+
+      -  ICC2 (Synopsys): Advanced place-and-route for ASIC implementation.
 </body>
 ---
 
