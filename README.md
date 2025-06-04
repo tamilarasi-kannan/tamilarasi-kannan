@@ -40,8 +40,11 @@
 
       Skills : 
       -  RTL Programming = [ Verilog, System Verikog, UVM, Linux ] 
+      
       -  Programming      = [ C, C++ (basic) ]
+      
       -  Basics in Datastructures 
+      
       -  Basics in Cloud computing
 </body>
 ---
